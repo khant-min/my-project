@@ -1,0 +1,48 @@
+{
+  "about_us": {
+    "main_img": [
+      { "slide_1": "https://i.imgur.com/z8DXR2D.png" },
+      { "slide_2": "https://i.imgur.com/rUciqfQ.png" },
+      { "slide_3": "https://i.imgur.com/gzw1kUy.jpg" },
+      { "slide_4": "https://i.imgur.com/wsvSSAO.png" }
+    ],
+    "cards": [
+      {
+        "id": "1",
+        "image": "https://i.imgur.com/JqB0HY5.png",
+        "description": "24 Hours Support",
+        "content": "Support 24 hours / 7 days-a-week. cambounlock operates a 24 hour/7 day-a-week email &amp; remote support services that is staffed to handle any issue or question for the systems that we develop or support. Handled directly by our knowledgeable staff ensuring a quick and accurate response"
+      },
+      {
+        "id": "2",
+        "image": "https://i.imgur.com/qnWlsBJ.png",
+        "description": "Attractive Prices",
+        "content": "If you find a cheaper price from our competitors but you still want to use cambounlock services, please feel free to contact us. all our advertised prices can be negotoated and we can always beat the competition"
+      },
+      {
+        "id": "3",
+        "image": "https://i.imgur.com/BYq4ncf.png",
+        "description": "Simple Instruction",
+        "content": "Our instructions are easy to follow and only require that you can enter the unlocking code using your keypad. if you can dial a telephone number, then you can enter the code!"
+      },
+      {
+        "id": "4",
+        "image": "https://i.imgur.com/mAHmBJS.png",
+        "description": "Absolutely Safe",
+        "content": "Completely safe, with no risk to your phone or hardware. No software downloads are required. Alongside opening, your money are completely secure as well.    "
+      },
+      {
+        "id": "5",
+        "image": "https://i.imgur.com/aDTyD9r.png",
+        "description": "Money Back Guarantee",
+        "content": "All of the services on our websites are covered by our 100% Money Back Guarantee. We provide such a guarantee to give honest customers the reassurance that the opening service they are ordering will be delivered in good faith."
+      },
+      {
+        "id": "6",
+        "image": "https://i.imgur.com/1rONHvM.png",
+        "description": "Expeditious Delivery",
+        "content": "All open codes and open confirmations are sent by e-mail to the e-mail address that the customer provides on the order form. We make sure the delivery of opening codes is time-efficient. If delayed, we'll inform our clients / resellers via e-mail."
+      }
+    ]
+  }
+}
